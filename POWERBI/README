@@ -1,9 +1,13 @@
 PROGRAMME POWERBI
+
 POWER BI QUICK PRESENTATION
+
 •	Le processus Power BI
 •	Vues du bureau Power BI
 •	Lancer Power BI Desktop
+
 Obtention de données
+
 •	Se connecter aux sources de données
 •	Se connecter à un fichier Excel
 •	Se connecter à un fichier CSV
@@ -11,12 +15,14 @@ Obtention de données
 •	Se connecter à une source de données Web
 •	Se connecter à un dossier de fichiers
 •	Créer une table de données
+
 Transformer et ajouter
+
 •	Nettoyer les données dans l'éditeur de requêtes
 •	Filtres, types de données, valeurs de remplacement
 •	Nombre de lignes, détection du type de données
 •	Insérer une colonne personnalisée
 •	Fractionner une colonne
-• Fusionner plusieurs colonnes
+•   Fusionner plusieurs colonnes
 •	Ajouter une colonne d'index
-• Renommer une colonne
+•   Renommer une colonne
